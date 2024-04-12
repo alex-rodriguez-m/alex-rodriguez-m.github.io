@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alejndro's Homepage"
+title                    : "Alejandro's Homepage"
 title_separator          : "-"
 name                     : &name "Jesus A. Rodriguez-Morales"
 description              : &description "personal description"
