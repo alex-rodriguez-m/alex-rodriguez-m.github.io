@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a master´s student majoring in Mechanics, working on constitutive models for shape memory polymers at Nanjing University of Aeronautics and Astronautics. My work has been funded by the  [China Scholarship Council](https://www.campuschina.org/index.html) and supervised by [Huiyu Sun](http://faculty.nuaa.edu.cn/shy/en/index/18666/list/index.htm). Previously, I completed a BEng in Mechanical Engineering at the National Technological Institute of Mexico. During my undergrad studies, I worked as a research assistant at CICY on polymer composite materials projects supervised by [Pedro Herrera-Franco](https://www.cicy.mx/english/materials-unit/resercher/pedro-jesus-herrera-franco).  
+Hi there! I am a master´s student majoring in Mechanics, working on constitutive models for shape memory polymers at Nanjing University of Aeronautics and Astronautics ([NUAA](http://nuaa.edu.cn/)). My work has been funded by the  [China Scholarship Council](https://www.campuschina.org/index.html) and supervised by [Huiyu Sun](http://faculty.nuaa.edu.cn/shy/en/index/18666/list/index.htm). Previously, I completed a BEng in Mechanical Engineering at the National Technological Institute of Mexico. During my undergrad studies, I worked as a research assistant at [CICY](https://www.cicy.mx/english) on polymer composite materials projects supervised by [Pedro Herrera-Franco](https://www.cicy.mx/english/materials-unit/resercher/pedro-jesus-herrera-franco).  
 
 
 Latest News
