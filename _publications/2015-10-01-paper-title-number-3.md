@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Tensile strength prediction of fiber-reinforced polymer composites through layered interphase and chemical bonding: A semi-empirical micromechanical model"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: '**Jesus A. Rodriguez-Morales**, Chentong Gao, Huiyu Sun'
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+venue: 'European Journal of Mechanics A/Solids'
+paperurl: 'https://doi.org/10.1016/j.euromechsol.2024.105533'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Fiber-reinforced polymer composites (FRPC) are essential for high-performance applications. However, concerns about their reliability persist owing to their heterogeneous structure across multiple length scales and the critical role of interphases in controlling their performance. In this article, we introduce a semi-empirical micromechanical model that quantitatively considers the impact of chemical treatments on improving interfacial adherence without relying on the Interfacial Shear Strength (IFSS), which is commonly known for posing challenges in characterization. The model predictions across a wide range of FRPC systems are validated against experimental data from the literature, indicating its reasonability and accuracy. Moreover, we analyze the role of parameters affecting fiber–matrix interphase performance, along with a comparison between the Kelly–Tyson model and the modified rule of mixtures. This article provides a simple, practical, and accurate approach to estimating the tensile strength of composite polymer systems and offers insights into the complex role of interphases in overall performance.
