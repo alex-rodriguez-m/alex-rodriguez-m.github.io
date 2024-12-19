@@ -21,14 +21,14 @@ repository               : "alex-rodriguez-m/alex-rodriguez-m.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "perfil1.jpg"
+  avatar           : "passport_size.png"
   name             : "Jesus A. Rodriguez-Morales"
   pronouns         : # example: "she/her"  
   bio              : "Huge goals, clear vision, strong mindset"
-  location         : "Nanjing, China"
-  employer         : "Nanjing University of Aeronautics\ and Astronautics"
+  location         : "Shanghai, China"
+  employer         : "Tongji University"
   uri              : # URL
-  email            : "alejandro_rodriguez@nuaa.edu.cn" 
+  email            : "2490020@tongji.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
