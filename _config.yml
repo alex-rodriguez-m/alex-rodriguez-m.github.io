@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alejandro's Homepage"
+title                    : "Alejandro Rodriguez"
 title_separator          : "-"
 name                     : &name "Jesus A. Rodriguez-Morales"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "passport_size.png"
   name             : "Jesus A. Rodriguez-Morales"
   pronouns         : # example: "she/her"  
-  bio              : "Huge goals, clear vision, strong mindset"
+  bio              : "Looking for collaborations"
   location         : "Shanghai, China"
   employer         : "Tongji University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : 
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9280-8562"
+  orcid            : "https://orcid.org/0000-0002-9280-8562"
   pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Jesus-Alejandro-Rodriguez-Morales"
 
