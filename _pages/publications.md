@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.researchgate %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.researchgate}}">my ResearchGate profile</a>.</div>
+{% if site.author.researchgate  %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.researchgate }}">my ResearchGate profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
