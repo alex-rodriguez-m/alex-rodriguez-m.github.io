@@ -3,7 +3,7 @@ title: "Tensile strength prediction of fiber-reinforced polymer composites throu
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: '**Jesus A. Rodriguez-Morales**, Chentong Gao, Huiyu Sun'
-date: 2015-10-01
+date: 2025-05-01
 venue: 'European Journal of Mechanics A/Solids'
 paperurl: 'https://doi.org/10.1016/j.euromechsol.2024.105533'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
