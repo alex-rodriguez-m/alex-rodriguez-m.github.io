@@ -7,14 +7,6 @@ author_profile: true
 
 {% if site.author.researchgate  %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.researchgate }}">my ResearchGate profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-or check     
 <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -28,3 +20,13 @@ or check
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-9280-8562
     </a>
+
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+    
+
