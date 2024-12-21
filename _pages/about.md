@@ -11,7 +11,7 @@ I am a D.Eng. student majoring in Mechanics at Tongji University in the School o
 
 
 ## Latest News
-2024-12-05 Our article entitled "Tensile strength prediction of fiber-reinforced polymer composites through layered interphase and chemical bonding: A semi-empirical micromechanical model" was accepted in the European Journal of Mechanics A/Solids.\\
-2024-08-01 Our conference article entitled "El rol de algoritmos de aprendizaje automático en la inferencia de relaciones constitutivas y parámetros de impresión de materiales poliméricos impresos en 4D: Una descripción general" was accepted on the National Congress of Space Activities (CONACES). 
+* 2024-12-05 Our article entitled "Tensile strength prediction of fiber-reinforced polymer composites through layered interphase and chemical bonding: A semi-empirical micromechanical model" was accepted in the European Journal of Mechanics A/Solids.
+* 2024-08-01 Our conference article entitled "El rol de algoritmos de aprendizaje automático en la inferencia de relaciones constitutivas y parámetros de impresión de materiales poliméricos impresos en 4D: Una descripción general" was accepted on the National Congress of Space Activities (CONACES). 
 
 
