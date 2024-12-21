@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* D.Eng. in Mechanics, Department of Aerospace Engineering and Applied Mechanics,Tongji University 2028 (expected)
+* D.Eng. in Mechanics, Department of Aerospace Engineering and Applied Mechanics, Tongji University, 2028 (expected)
 * M.Eng. in Mechanics, Department of Aerospace Engineering, Nanjing University of Aeronautics and Astronautics, 2024
 * B.Eng. in Mechanical Engineering, Department of Mechanical Engineering, National Technological Institute of Mexico, 2019
 
