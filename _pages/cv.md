@@ -37,4 +37,4 @@ Academic Services
 ======
 * Reviewer for: Materials Research Express, Engineering Research Express, and Physica Scripta. 
 
-For an extended version, please check the following link: [CV](/_pages/)
+For an extended version, please check the following link: [CV](/_pages/CV.pdf)
