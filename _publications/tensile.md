@@ -1,7 +1,7 @@
 ---
 title: "Tensile strength prediction of fiber-reinforced polymer composites through layered interphase and chemical bonding: A semi-empirical micromechanical model"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/
 excerpt: '**Jesus A. Rodriguez-Morales**, Chentong Gao, Huiyu Sun'
 date: 2025-05-01
 venue: 'European Journal of Mechanics A/Solids'
