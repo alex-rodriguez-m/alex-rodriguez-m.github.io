@@ -2,7 +2,7 @@
 title: "A thermodynamic constitutive model based on uncoupled physical mechanisms for polymer-based shape memory composites and its application
 in 4D printing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/
 excerpt: 'Hao Duan, Huiyu Sun, **Jesus A. Rodriguez-Morales**, Xinyuan Bai.'
 date: 2025-01-13
 venue: 'Applied Mathematical Modelling'
