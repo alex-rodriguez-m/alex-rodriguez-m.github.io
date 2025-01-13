@@ -3,7 +3,7 @@ title: "A thermodynamic constitutive model based on uncoupled physical mechanism
 in 4D printing"
 collection: publications
 permalink: /publications/AMM_Duan
-excerpt: 'Hao Duan, Jianping Gu, Huiyu Sun, Hao Zeng, Jesus A. Rodriguez-Morales.'
+excerpt: 'Hao Duan, Jianping Gu, Huiyu Sun, Hao Zeng, **Jesus A. Rodriguez-Morales**.'
 date: 2025-01-13
 venue: 'Applied Mathematical Modelling'
 paperurl: 'https://doi.org/10.1016/j.apm.2025.115926'
