@@ -1,7 +1,7 @@
 ---
 title: "Insight into constitutive theories of 4D printed polymer materials: a review"
 collection: publications
-permalink: /publication/
+permalink: /publications/review
 excerpt: '**Jesus A. Rodriguez-Morales**, Hao Duan, Jianping Gu, Hao Zeng, Huiyu Sun.'
 date: 2024-06-19  
 venue: 'Smart Materials and Structures'
