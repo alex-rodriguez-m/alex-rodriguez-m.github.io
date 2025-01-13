@@ -1,7 +1,7 @@
 ---
 title: "Insight into the “synergistic-relaxation effects” in amorphous polymer: Thermodynamic modeling, multiphysics simulation and application in 4D printing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/
 excerpt: 'Hao Duan, Huiyu Sun, **Jesus A. Rodriguez-Morales**, Xinyuan Bai.'
 date: 2024-12-17
 venue: 'Polymer'
