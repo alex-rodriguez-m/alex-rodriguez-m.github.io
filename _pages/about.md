@@ -16,6 +16,7 @@ My work has been funded by the China Scholarship Council (CSC) and the Shanghai 
 
 
 ## Latest News
+- **2025-01-31**: We have joined the American Society of Mechanical Engineers (ASME) and the American Physical Society (APS) as student members.
 - **2025-01-03**: Our collaborative article, *"A thermodynamic constitutive model based on uncoupled physical mechanisms for polymer-based shape memory composites and its application in 4D printing,"* was accepted in the *Applied Mathematical Modelling* journal.
 - **2024-12-05**: Our article, *"Tensile strength prediction of fiber-reinforced polymer composites through layered interphase and chemical bonding: A semi-empirical micromechanical model,"* was accepted in the *European Journal of Mechanics A/Solids*.
 - **2024-08-01**: Our conference article, *"El rol de algoritmos de aprendizaje automático en la inferencia de relaciones constitutivas y parámetros de impresión de materiales poliméricos impresos en 4D: Una descripción general,"* was accepted at the National Congress of Space Activities (CONACES).
