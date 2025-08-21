@@ -1,0 +1,22 @@
+[data-theme="dark"] {
+  --mm-text: #e6e6ea;
+  --mm-bg: #0b1020;
+  --mm-card: #131a33;
+  --mm-border: #2a3357;
+  --mm-link: #a9c1ff;
+
+  background-color: var(--mm-bg);
+  color: var(--mm-text);
+
+  a { color: var(--mm-link); }
+
+  .page, .page__content, .archive, .grid__item, .sidebar,
+  .notice, .card, .masthead, .site-nav, .site-header {
+    background-color: var(--mm-card);
+    color: var(--mm-text);
+    border-color: var(--mm-border);
+  }
+
+  code, pre { background: #0f1530; color: #d9e1ff; }
+  blockquote { border-left-color: var(--mm-border); }
+}
