@@ -1,6 +1,7 @@
 (function () {
   var LS_KEY = "ap-theme";
   var root = document.documentElement;
+
   function apply(theme) {
     if (theme === "dark") {
       root.setAttribute("data-theme", "dark");
@@ -8,13 +9,17 @@
       root.removeAttribute("data-theme");
     }
   }
+
+  // Check if user has saved theme
   var saved = localStorage.getItem(LS_KEY);
   if (!saved) {
-    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    saved = prefersDark ? "dark" : "light";
+    // Default: light theme
+    saved = "light";
     localStorage.setItem(LS_KEY, saved);
   }
   apply(saved);
+
+  // Toggle when button clicked
   window.addEventListener("DOMContentLoaded", function () {
     var btn = document.getElementById("theme-toggle");
     if (!btn) return;
