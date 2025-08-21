@@ -2,6 +2,13 @@
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
+
+    <!-- Appearance & UX buttons -->
+    <div class="header-buttons" style="display:flex; gap:0.5rem; align-items:center;">
+      <button id="theme-toggle" aria-label="Toggle dark mode">🌓</button>
+      <button id="nav-toggle" aria-label="Toggle navigation">☰</button>
+    </div>
+
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
@@ -10,7 +17,7 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
