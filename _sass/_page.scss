@@ -404,7 +404,7 @@
    Custom Appearance & UX Enhancements
    ================================ */
 
-/* Dark mode */
+/* Dark mode variables */
 [data-theme="dark"] {
   --mm-text: #e6e6ea;
   --mm-bg: #0b1020;
@@ -428,19 +428,8 @@
   blockquote { border-left-color: var(--mm-border); }
 }
 
-/* Sticky header */
-.masthead {
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
 /* Mobile nav improvements */
 @media (max-width: 768px) {
-  .masthead {
-    position: relative;
-  }
   .site-nav {
     display: none;
     flex-direction: column;
@@ -452,16 +441,18 @@
     display: flex;
     animation: slideDown 0.3s ease-out;
   }
-  #nav-toggle {
-    display: block;
-    background: none;
-    border: none;
-    font-size: 1.5rem;
-    cursor: pointer;
-  }
 }
 @keyframes slideDown {
   from { opacity: 0; transform: translateY(-10px); }
   to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Header buttons */
+.header-buttons button {
+  font-size: 1.2rem;
+  background: #ff0; /* temporary visible color */
+  border: none;
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
 }
 
