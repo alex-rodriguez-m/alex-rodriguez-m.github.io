@@ -12,10 +12,10 @@ Previously, I completed an M.Eng. in Mechanics at the Nanjing University of Aero
 
 During my undergraduate studies, I worked as a research assistant at the Yucatan Scientific Research Center ([CICY](https://www.cicy.mx/english)) and the Autonomous University of Yucatan ([UADY](https://en.uady.mx/)), supervised by [Pedro Herrera-Franco](https://www.researchgate.net/profile/Pedro-Herrera-Franco) and [M. A. Lucio-Garcia](https://www.researchgate.net/profile/Lucio-Monica-Arely). 
 
-My work has been funded by the China Scholarship Council (CSC) and the Shanghai Municipal People's Government.
+My work has been funded by the China Scholarship Council (CSC) and the Shanghai Municipal People's Government. You can reach me at [2490020@tongji.edu.cn](). 
 
 
-## Latest News
+### Latest News
 - **2025-07-25**: Alejandro joined the Chinese Society of Theoretical and Applied Mechanics (CSTAM) as a student member.
 - **2025-01-31**: Alejandro joined the American Society of Mechanical Engineers (ASME) and the American Physical Society (APS) as a student member.
 - **2025-01-03**: Our collaborative article, *"A thermodynamic constitutive model based on uncoupled physical mechanisms for polymer-based shape memory composites and its application in 4D printing,"* was accepted in the *Applied Mathematical Modelling* journal.
