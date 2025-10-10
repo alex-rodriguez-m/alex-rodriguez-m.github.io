@@ -16,6 +16,7 @@ My work has been funded by the China Scholarship Council (CSC) and the Shanghai 
 
 
 ### Latest News
+- **2025-09-29**: Our conference article, *"Modeling Specular and Dispersive Multipath Propagation in On-Chip Wireless Communication Channels,"* was accepted at the 13th International Academic Conference for Graduates, NUAA, held in Nanjing.
 - **2025-07-25**: Alejandro joined the Chinese Society of Theoretical and Applied Mechanics (CSTAM) as a student member.
 - **2025-01-31**: Alejandro joined the American Society of Mechanical Engineers (ASME) and the American Physical Society (APS) as a student member.
 - **2025-01-03**: Our collaborative article, *"A thermodynamic constitutive model based on uncoupled physical mechanisms for polymer-based shape memory composites and its application in 4D printing,"* was accepted in the *Applied Mathematical Modelling* journal.
