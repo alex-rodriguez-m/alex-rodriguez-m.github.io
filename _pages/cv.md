@@ -35,12 +35,10 @@ Teaching
   
 Academic Services
 ======
-* Reviewer for: Materials Research Express, Engineering Research Express, and Physica Scripta.
+* Reviewer for: Materials Research Express, Engineering Research Express, Physica Scripta, Smart Materials and Structures, and European Journal of Physics.
 
 Professional Memberships
 ======
 * Chinese Society of Theoretical and Applied Mechanics (CSTAM)
-* American Society of Mechanical Engineers (ASME)
-* American Physical Society (APS)
 
 For an extended version, please check the following link: [CV](/_pages/CV.pdf)
