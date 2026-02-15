@@ -12,10 +12,11 @@ Previously, I completed an M.Eng. in Mechanics at the Nanjing University of Aero
 
 During my undergraduate studies, I worked as a research assistant at the Yucatan Scientific Research Center ([CICY](https://www.cicy.mx/english)) and the Autonomous University of Yucatan ([UADY](https://en.uady.mx/)), supervised by [Pedro Herrera-Franco](https://www.researchgate.net/profile/Pedro-Herrera-Franco) and [M. A. Lucio-Garcia](https://www.researchgate.net/profile/Lucio-Monica-Arely). 
 
-My work has been funded by the China Scholarship Council (CSC) and the Shanghai Municipal People's Government. You can reach me at [2490020@tongji.edu.cn](). 
+My work has been funded by the China Scholarship Council (CSC) and the Shanghai Municipal People's Government. You can reach me at [alejandro_rodriguez@tongji.edu.cn](). 
 
 
 ### Latest News
+- **2026-02-13**: Our collaborative article, *"Structural Design and Mechanical Performance of Novel Low-Poisson’s-Ratio Airship Envelope Materials,"* was accepted in the *Scientia Sinica Physica, Mechanica & Astronomica* journal.
 - **2025-09-29**: Our conference article, *"Modeling Specular and Dispersive Multipath Propagation in On-Chip Wireless Communication Channels,"* was accepted at the 13th International Academic Conference for Graduates, NUAA, held in Nanjing.
 - **2025-07-25**: Alejandro joined the Chinese Society of Theoretical and Applied Mechanics (CSTAM) as a student member.
 - **2025-01-31**: Alejandro joined the American Society of Mechanical Engineers (ASME) and the American Physical Society (APS) as a student member.
