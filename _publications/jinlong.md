@@ -6,7 +6,7 @@ excerpt: 'Jinlong Zhou, Pan Wencheng, Chentong Gao, **Jesus A. Rodriguez-Morales
 date: 2026-02-13
 venue: 'Scientia Sinica Physica, Mechanica & Astronomica'
 paperurl: 'https://doi.org/10.1360/SSPMA-2025-0613'
-citation: 'Jinlong, Z., Pan, W., Gao, C., Rodriguez-Morales, J. A., & Sun, H. (2025). Structural design and mechanical performance of novel low-Poisson’s-ratio airship envelope materials. <i>Scientia Sinica Physica, Mechanica & Astronomica</i>, Accepted.'
+citation: 'Jinlong, Z., Pan, W., Gao, C., Rodriguez-Morales, J. A., & Sun, H. (2026). Structural design and mechanical performance of novel low-Poisson’s-ratio airship envelope materials. <i>Scientia Sinica Physica, Mechanica & Astronomica</i>, Accepted.'
 ---
 
 To address the issues of pronounced lateral contraction and poor deformation compatibility in conventional airship envelope materials under tensile loading, this study introduces a novel airship envelope material with a low-Poisson’s-ratio feature by applying metamaterial structural design concepts to typical polyamide/polyurethane composite airship envelope materials. First, uniaxial quasi-static tensile tests were conducted to obtain the stress–strain curves and key mechanical parameters of the typical airship envelope material, revealing its significant
