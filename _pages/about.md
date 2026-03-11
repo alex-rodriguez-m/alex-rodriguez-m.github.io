@@ -16,10 +16,10 @@ My work has been funded by the China Scholarship Council (CSC) and the Shanghai 
 
 
 ### Latest News
+- **2026-03-11**: Alejandro received the IOP Trusted Reviewer status in recognition of his commitment and expertise as a reviewer.
 - **2026-02-13**: Our collaborative article, *"Structural Design and Mechanical Performance of Novel Low-Poisson’s-Ratio Airship Envelope Materials,"* was accepted in the *Scientia Sinica Physica, Mechanica & Astronomica* journal.
 - **2025-09-29**: Our conference article, *"Modeling Specular and Dispersive Multipath Propagation in On-Chip Wireless Communication Channels,"* was accepted at the 13th International Academic Conference for Graduates, NUAA, held in Nanjing.
 - **2025-07-25**: Alejandro joined the Chinese Society of Theoretical and Applied Mechanics (CSTAM) as a student member.
-- **2025-01-31**: Alejandro joined the American Society of Mechanical Engineers (ASME) and the American Physical Society (APS) as a student member.
 - **2025-01-03**: Our collaborative article, *"A thermodynamic constitutive model based on uncoupled physical mechanisms for polymer-based shape memory composites and its application in 4D printing,"* was accepted in the *Applied Mathematical Modelling* journal.
 - **2024-12-05**: Our article, *"Tensile strength prediction of fiber-reinforced polymer composites through layered interphase and chemical bonding: A semi-empirical micromechanical model,"* was accepted in the *European Journal of Mechanics A/Solids*.
 - **2024-08-01**: Our conference article, *"El rol de algoritmos de aprendizaje automático en la inferencia de relaciones constitutivas y parámetros de impresión de materiales poliméricos impresos en 4D: Una descripción general,"* was accepted at the National Congress of Space Activities (CONACES).
