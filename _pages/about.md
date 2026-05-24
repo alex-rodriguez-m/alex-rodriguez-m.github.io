@@ -14,19 +14,6 @@ During my undergraduate studies, I worked as a research assistant at the Yucatan
 
 My work has been funded by the China Scholarship Council (CSC) and the Shanghai Municipal People's Government. You can reach me at: [alejandro_rodriguez@tongji.edu.cn](mailto:alejandro_rodriguez@tongji.edu.cn).
 
-<div style="margin: 20px 0;">
-  <script 
-    type="text/javascript" 
-    src="https://orcid.org/sites/default/files/script/orcid.widget.js" 
-    async>
-  </script>
-  <div 
-    data-orcid="0000-0002-9280-8562" 
-    data-show-link="true" 
-    data-show-number="true" 
-    data-style="compact">
-  </div>
-</div>
 
 ### Latest News
 - **2026-03-11**: I received IOP Trusted Reviewer status in recognition of my commitment and expertise as a reviewer.
