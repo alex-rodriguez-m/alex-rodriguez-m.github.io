@@ -24,7 +24,10 @@ My work has been funded by the China Scholarship Council (CSC) and the Shanghai 
 - **2024-12-05**: Our article, *"Tensile strength prediction of fiber-reinforced polymer composites through layered interphase and chemical bonding: A semi-empirical micromechanical model,"* was accepted in the *European Journal of Mechanics A/Solids*.
 - **2024-08-01**: Our conference article, *"El rol de algoritmos de aprendizaje automático en la inferencia de relaciones constitutivas y parámetros de impresión de materiales poliméricos impresos en 4D: Una descripción general,"* was accepted at the National Congress of Space Activities (CONACES).
 
+
+---
+I’m always open to discussing new ideas, collaborations, or potential projects. Feel free to reach out via email.
+
 <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/176699926" target="_blank" rel="noopener noreferrer" style="position: fixed; bottom: 20px; right: 20px; z-index: 9999; display: inline-block; border: none; background: none; padding: 0; margin: 0;">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/176699926" alt="Credential Badge" style="width: 120px; height: auto; display: block; border: none; box-shadow: 0 2px 8px rgba(0,0,0,0.15); border-radius: 4px;">
 </a>
-
