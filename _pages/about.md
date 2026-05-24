@@ -6,22 +6,51 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a D.Eng. student majoring in Mechanics in the School of Aerospace Engineering and Applied Mechanics at [Tongji University](https://en.tongji.edu.cn/p/#/). My doctoral research is supervised by [Ying Zhao](http://www.yingzhaotj.cn/). 
+I am a D.Eng. candidate in Mechanics at the School of Aerospace Engineering and Applied Mechanics, [Tongji University](https://en.tongji.edu.cn/p/#/), under the supervision of [Ying Zhao](http://www.yingzhaotj.cn/).
 
-Previously, I completed an M.Eng. in Mechanics at the Nanjing University of Aeronautics and Astronautics ([NUAA](https://en.nuaa.edu.cn/)), under the supervision of [Huiyu Sun](http://faculty.nuaa.edu.cn/shy/en/index/18666/list/index.htm). Before joining NUAA, I earned a B.Eng. in Mechanical Engineering at the National Technological Institute of Mexico, campus Merida ([ITM](https://www.merida.tecnm.mx/)). 
+Previously, I completed an M.Eng. in Mechanics at the Nanjing University of Aeronautics and Astronautics ([NUAA](https://en.nuaa.edu.cn/)), under the supervision of [Huiyu Sun](http://faculty.nuaa.edu.cn/shy/en/index/18666/list/index.htm). Before joining NUAA, I earned a B.Eng. in Mechanical Engineering at the National Technological Institute of Mexico, campus Merida ([ITM](https://www.merida.tecnm.mx/)).
 
-During my undergraduate studies, I worked as a research assistant at the Yucatan Scientific Research Center ([CICY](https://www.cicy.mx/english)) and the Autonomous University of Yucatan ([UADY](https://en.uady.mx/)), supervised by [Pedro Herrera-Franco](https://www.researchgate.net/profile/Pedro-Herrera-Franco) and [M. A. Lucio-Garcia](https://www.researchgate.net/profile/Lucio-Monica-Arely). 
+During my undergraduate studies, I worked as a research assistant at the Yucatan Scientific Research Center ([CICY](https://www.cicy.mx/english)) and the Autonomous University of Yucatan ([UADY](https://en.uady.mx/)), supervised by [Pedro Herrera-Franco](https://www.researchgate.net/profile/Pedro-Herrera-Franco) and [M. A. Lucio-Garcia](https://www.researchgate.net/profile/Lucio-Monica-Arely).
 
-My work has been funded by the China Scholarship Council (CSC) and the Shanghai Municipal People's Government. You can reach me at [alejandro_rodriguez@tongji.edu.cn](). 
+My work has been funded by the China Scholarship Council (CSC) and the Shanghai Municipal People's Government. You can reach me at: [alejandro_rodriguez@tongji.edu.cn](mailto:alejandro_rodriguez@tongji.edu.cn).
 
 
 ### Latest News
-- **2026-03-11**: Alejandro received the IOP Trusted Reviewer status in recognition of his commitment and expertise as a reviewer.
-- **2026-02-13**: Our collaborative article, *"Structural Design and Mechanical Performance of Novel Low-Poisson’s-Ratio Airship Envelope Materials,"* was accepted in the *Scientia Sinica Physica, Mechanica & Astronomica* journal.
+- **2026-03-11**: I received IOP Trusted Reviewer status in recognition of my commitment and expertise as a reviewer.
+- **2026-02-13**: Our collaborative article, *"Structural Design and Mechanical Performance of Novel Low-Poisson’s-Ratio Airship Envelope Materials,"* was accepted in *Scientia Sinica Physica, Mechanica & Astronomica*.
 - **2025-09-29**: Our conference article, *"Modeling Specular and Dispersive Multipath Propagation in On-Chip Wireless Communication Channels,"* was accepted at the 13th International Academic Conference for Graduates, NUAA, held in Nanjing.
-- **2025-07-25**: Alejandro joined the Chinese Society of Theoretical and Applied Mechanics (CSTAM) as a student member.
-- **2025-01-03**: Our collaborative article, *"A thermodynamic constitutive model based on uncoupled physical mechanisms for polymer-based shape memory composites and its application in 4D printing,"* was accepted in the *Applied Mathematical Modelling* journal.
+- **2025-07-25**: I joined the Chinese Society of Theoretical and Applied Mechanics (CSTAM) as a student member.
+- **2025-01-03**: Our collaborative article, *"A thermodynamic constitutive model based on uncoupled physical mechanisms for polymer-based shape memory composites and its application in 4D printing,"* was accepted in *Applied Mathematical Modelling*.
 - **2024-12-05**: Our article, *"Tensile strength prediction of fiber-reinforced polymer composites through layered interphase and chemical bonding: A semi-empirical micromechanical model,"* was accepted in the *European Journal of Mechanics A/Solids*.
 - **2024-08-01**: Our conference article, *"El rol de algoritmos de aprendizaje automático en la inferencia de relaciones constitutivas y parámetros de impresión de materiales poliméricos impresos en 4D: Una descripción general,"* was accepted at the National Congress of Space Activities (CONACES).
 
+<a 
+  href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/176699926" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  style="
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    display: inline-block;
+    border: none;
+    background: none;
+    padding: 0;
+    margin: 0;
+  "
+>
+  <img 
+    src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/176699926" 
+    alt="Credential Badge"
+    style="
+      width: 120px;          /* Adjust size as needed */
+      height: auto;
+      display: block;
+      border: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+      border-radius: 4px;
+    "
+  >
+</a>
 
